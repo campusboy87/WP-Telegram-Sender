@@ -98,7 +98,7 @@ class TGS_Admin {
 				?>
             </form>
         </div>
-		<?
+		<?php
 	}
 
 	/**
